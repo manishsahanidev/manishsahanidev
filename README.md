@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Manish Sahani (@manishsahanidev)
 
 ## About Me
-I'm Manish Sahani, a Computer Science graduate passionate about full-stack development. With expertise in Java, JavaScript, Spring Boot, React.js, Tailwind CSS and modern technologies, eager to learn and collaborate on innovative projects.
+A Computer Science graduate passionate about full-stack development. With expertise in Java, JavaScript, Spring Boot, React.js, Tailwind CSS and modern technologies, eager to learn and collaborate on innovative projects.
 
 
 ## Interests
