@@ -20,6 +20,7 @@ A Computer Science graduate passionate about full-stack development. With expert
 - 📫 How to reach me:
 - [Mail](mailto:work.manishsahani@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/manishsahanidev)
+- [Portfolio](https://manishsahanidev.netlify.app/)
 
 ## Fun Fact
 - ⚡ Fun fact: I enjoy solving complex algorithms and participating in coding challenges in my free time.
