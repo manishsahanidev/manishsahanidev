@@ -17,7 +17,8 @@ A Computer Science graduate passionate about full-stack development. With expert
 - **Tools**: IntelliJ IDEA, VS Code
 
 ## Contact
-- 📫 How to reach me: [https://manishsahanidev.netlify.app/](mailto:work.manishsahani@gmail.com)
+- 📫 How to reach me:
+- [Mail](mailto:work.manishsahani@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/manishsahanidev)
 
 ## Fun Fact
