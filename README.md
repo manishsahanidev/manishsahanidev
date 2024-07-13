@@ -6,7 +6,7 @@ A Computer Science graduate passionate about full-stack development. With expert
 
 ## Interests
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning advanced React.js and Spring Boot and PostgreSQL.
+- 🌱 I’m currently learning advanced React.js, Spring Boot and PostgreSQL.
 
 ## Skills
 - **Programming Languages**: Java, JavaScript
