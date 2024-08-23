@@ -11,7 +11,7 @@ A Computer Science graduate passionate about full-stack development. With expert
 ## Skills
 - **Programming Languages**: Java, JavaScript
 - **Frameworks**: Spring Boot, React.js, Express.js, Node.js
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, MongoDB(Basic)
 - **Frontend**: HTML, CSS, Tailwind CSS
 - **Additional Technologies**: RESTful API development, Version Control (Git)
 - **Tools**: IntelliJ IDEA, VS Code
@@ -21,8 +21,5 @@ A Computer Science graduate passionate about full-stack development. With expert
 - [Mail](mailto:work.manishsahani@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/manishsahanidev)
 - [Portfolio](https://manishsahanidev.netlify.app/)
-
-## Fun Fact
-- ⚡ Fun fact: I enjoy solving complex algorithms and participating in coding challenges in my free time.
 
 Feel free to explore my repositories and reach out if you're interested in collaborating on projects!
