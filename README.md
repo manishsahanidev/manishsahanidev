@@ -1,25 +1,24 @@
-# Hi there! 👋 I'm Manish Sahani (@manishsahanidev)
+# Manish Sahani
+Full-stack developer. I build web applications that work.
 
-## About Me
-A Computer Science graduate passionate about full-stack development. With expertise in Java, JavaScript, Spring Boot, React.js, Tailwind CSS and modern technologies, eager to learn and collaborate on innovative projects.
+## What I Do
+- Build things with code.
+- Solve problems with code.
+- Make solutions better.
+- Contribute to open source
 
 
-## Interests
-- 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning advanced React.js, Spring Boot and PostgreSQL.
+## Tech Stack
+**Backend:** Java, Spring Boot, Express.js, Node.js  
+**Frontend:** React.js, JavaScript, HTML/CSS, Tailwind CSS  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Docker
 
-## Skills
-- **Programming Languages**: Java, JavaScript
-- **Frameworks**: Spring Boot, React.js, Express.js, Node.js
-- **Databases**: MySQL, MongoDB(Basic)
-- **Frontend**: HTML, CSS, Tailwind CSS
-- **Additional Technologies**: RESTful API development, Version Control (Git)
-- **Tools**: IntelliJ IDEA, VS Code
+## Currently Learning
+Advanced React.js, Spring Boot optimization, PostgreSQL
 
-## Contact
-- 📫 How to reach me:
-- [Mail](mailto:work.manishsahani@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/manishsahanidev)
-- [Portfolio](https://manishsahanidev.netlify.app/)
+## Connect
+[Email](mailto:work.manishsahani@gmail.com) • [LinkedIn](https://www.linkedin.com/in/manishsahanidev) • [Portfolio](https://manishsahanidev.netlify.app/)
 
-Feel free to explore my repositories and reach out if you're interested in collaborating on projects!
+---
+*Open to collaborating on meaningful projects.*
