@@ -11,7 +11,7 @@ Full-stack developer. I build web applications that work.
 ## Tech Stack
 **Backend:** Java, Spring Boot, Express.js, Node.js  
 **Frontend:** React.js, JavaScript, HTML/CSS, Tailwind CSS  
-**Databases:** MySQL, MongoDB, PostgreSQL
+**Databases:** MySQL, MongoDB, PostgreSQL  
 **Tools:** Git, Docker
 
 ## Currently Learning
